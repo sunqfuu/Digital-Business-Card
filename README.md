@@ -36,14 +36,12 @@ This **Digital Business Card** project is part of the **Scrimba Solo Project** s
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-| Technology    | Purpose                                 |
-|---------------|------------------------------------------|
-| **HTML5**     | Semantic layout and structured content  |
-| **CSS3**      | Styling, responsive design, hover effects |
-| **JavaScript**| (Optional) Interactivity enhancements    |
-| **GitHub Pages** | Live deployment and hosting           |
+- ⚛️ React
+- 🟨 JavaScript (ES6+)
+- 🎨 CSS3
+- 🌐 HTML5
 
 ---
 
