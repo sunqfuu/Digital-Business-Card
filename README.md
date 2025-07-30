@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Library-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deployed‑via‑GitHub%20Pages-6e5494?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployed‑on‑Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ## 🌍 Live Demo
 
 🚀 View it live here:  
-👉 [https://sunqfuu.github.io/Digital-Business-Card/](https://sunqfuu.github.io/Digital-Business-Card/)
+👉 [https://sunqfu-digitalcard.netlify.app/](https://sunqfu-digitalcard.netlify.app/)
 
 ---
 
@@ -57,6 +57,14 @@ This **Digital Business Card** project is part of the **Scrimba Solo Project** s
 ## 🚀 Getting Started
 
 ```bash
+# Clone the repository
 git clone https://github.com/sunqfuu/Digital-Business-Card.git
+
+# Navigate to the project directory
 cd Digital-Business-Card
-open index.html
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
